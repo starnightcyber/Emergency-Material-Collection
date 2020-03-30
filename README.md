@@ -96,6 +96,8 @@
 
 </details>
 
+应急响应指南:[theLSA/emergency-response-checklist](https://github.com/theLSA/emergency-response-checklist)
+
 ## 方法论
 
 [浅谈我所理解的应急响应流程](https://www.freebuf.com/column/193690.html)
@@ -119,6 +121,8 @@
 Linux主机排查:[grayddq/GScan](https://github.com/grayddq/GScan)
 
 linux安全检查:[T0xst/linux](https://github.com/T0xst/linux)
+
+linux信息收集/应急响应/常见后门检测脚本:[al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)
 
 ## 事件处理篇
 
